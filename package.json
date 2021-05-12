@@ -1,0 +1,12 @@
+{
+  "name": "my-actor",
+  "version": "0.0.1",
+  "dependencies": {
+    "apify": "^1.2.0",
+    "puppeteer": "*"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Me!"
+}
